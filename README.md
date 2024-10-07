@@ -1,12 +1,11 @@
-<div align= "center">
+<div align= "left">
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=random&height=120&text=Hello%20Luigi!&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;" align= "center"; > Backend Developer 김주엽😋 </h2>  
 </div>
-    
-포기하지 않고 끝까지 개발하는 것을 목표로 합니다.\
-개발자에게 가장 중요한 것은 어려운 문제를 마주하더라도 포기하지 않는 끈기라고 생각합니다.\
-처음은 힘들더라도 한 칸씩 계단을 오르다 보면 좋은 개발자가 될 것이라 믿습니다🔥
+
+## 🏫Education
+* [수원대학교 컴퓨터SW학과](https://www.suwon.ac.kr/index.html?menuno=1120) 4학년 재학 중(2019.03~)
+
 
 ## 💻Skills
 ### Backend
