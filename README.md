@@ -9,7 +9,7 @@
 
 ## 💻Skills
 ### Backend
-![Java](https://img.shields.io/badge/JDK_17-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![JPA](https://img.shields.io/badge/Spring_JPA-green.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-purple?style=for-the-badge&logo=JSON%20web%20tokens)
