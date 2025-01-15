@@ -26,7 +26,7 @@
 ### Others
 ![Unity](https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C](https://img.shields.io/badge/C-000000.svg?style=for-the-badge&logo=c&logoColor=green)
-![C++](https://img.shields.io/badge/C++-FFFF00.svg?style=for-the-badge&logo=c&logoColor=blue)
+![C++](https://img.shields.io/badge/C%2B%2B-#00599C.svg?style=for-the-badge&logo=c&logoColor=blue)
 ![C#](https://img.shields.io/badge/C%23-33FF00.svg?style=for-the-badge&logo=c&logoColor=orange)
 
 
