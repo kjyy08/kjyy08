@@ -4,7 +4,7 @@
 </div>
 
 ## 🏫Education
-* [수원대학교 컴퓨터SW학과](https://www.suwon.ac.kr/index.html?menuno=1120) 4학년 재학 중(2019.03~)
+* [수원대학교 컴퓨터SW학과](https://www.suwon.ac.kr/index.html?menuno=1120) 수료 (2019.03~2025.02)
 
 
 ## 💻Skills
