@@ -100,6 +100,16 @@
 
 ---
 
+## ☁️ Luigi Cloud
+
+<div align="center">
+  
+  [![BookStack](https://img.shields.io/badge/Wiki-blue?style=for-the-badge&logo=bookstack&logoColor=white)](https://wiki.luigi99.cloud/)
+  
+</div>
+
+---
+
 ## 📫 Connect With Me
 
 <div align="center">
@@ -110,12 +120,3 @@
   
 </div>
 
----
-
-## ☁️ Luigi Cloud
-
-<div align="center">
-  
-  [![BookStack](https://img.shields.io/badge/Wiki-blue?style=for-the-badge&logo=bookstack&logoColor=white)](https://wiki.luigi99.cloud/)
-  
-</div>
