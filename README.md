@@ -6,7 +6,6 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Welcome+to+my+GitHub+Profile!+👋;Always+learning+and+growing+🚀)](https://git.io/typing-svg)
 
-  [![Profile Views](https://komarev.com/ghpvc/?username=kjyy08&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/kjyy08)
   [![GitHub followers](https://img.shields.io/github/followers/kjyy08?style=social)](https://github.com/kjyy08?tab=followers)
   [![GitHub stars](https://img.shields.io/github/stars/kjyy08?style=social)](https://github.com/kjyy08?tab=repositories)
   
