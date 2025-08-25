@@ -74,13 +74,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kjyy08&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
-
----
-
 ## 📈 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kjyy08&theme=tokyo-night&bg_color=0d1117&color=79c0ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" />
