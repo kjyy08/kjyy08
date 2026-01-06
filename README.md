@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=200&section=header&text=It's%20Me!%20Luigi!&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Backend%20Developer%20&descAlignY=65&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=200&section=header&text=It's%20Me!%20Luigi!&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Backend%20Developer%20&descAlignY=65&descAlign=50" />
 </div>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Welcome+to+my+GitHub+Profile!+👋;Always+learning+and+growing+🚀)](https://git.io/typing-svg)
-
   [![GitHub followers](https://img.shields.io/github/followers/kjyy08?style=social)](https://github.com/kjyy08?tab=followers)
   [![GitHub stars](https://img.shields.io/github/stars/kjyy08?style=social)](https://github.com/kjyy08?tab=repositories)
   
