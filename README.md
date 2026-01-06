@@ -65,28 +65,9 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kjyy08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjyy08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-</div>
-
----
-
 ## 📈 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kjyy08&theme=tokyo-night&bg_color=0d1117&color=79c0ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" />
-</div>
-
----
-
-## 💡 Featured Projects
-
-<div align="center">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kjyy08&repo=AIBE1-FinalProject-Team01-BE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff)](https://github.com/kjyy08/AIBE1-FinalProject-Team01-BE)
-  
 </div>
 
 ---
